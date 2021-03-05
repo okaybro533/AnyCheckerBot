@@ -9,7 +9,7 @@
     ],
     "website": "https://telegram.me/AnyCheckerBot",
     "repository": "https://github.com/IndianBots/AnyCheckerBot",
-    "success_url": "https://telegram.me/IndianBots",
+    "success_url": "https://telegram.me/learnerscrew",
     "env": {
         "BOT_TOKEN": {
             "description": "Enter your Bot Token Here. Get it from @Botfather",
