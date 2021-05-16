@@ -66,7 +66,7 @@ if (empty($phone)) {
 if($binlenth < '6'){ //If Bin Length is Less than 6, Then it is Invalid. Because to get Bin info, it should have minimum 6 Digits -_-
     bot('sendmessage',[
 	'chat_id'=>$chat_id,
-	'text'=>"<b>❌ INVALID BIN LENGTH ❌
+	'text'=>"<b>❌ INVALID BIN LENGTH LOL❌
 
 Checked By</b> <b>@$username2</b>",
 	'parse_mode'=>'html',
@@ -102,7 +102,7 @@ else{ //If No response, Mark it as Invalid Bin
 
     bot('sendmessage',[
 	'chat_id'=>$chat_id,
-	'text'=>"<b>❌ INVALID BIN ❌
+	'text'=>"<b>❌ INVALID BIN NOOB NIBBA ❌
 
 Checked By</b> <b>@$username2</b>",
 	'parse_mode'=>'html',
